@@ -83,6 +83,10 @@
 
 ###
 
+<h2 align="left">Profile Views:</h2>
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/MananHere576/count.svg?"  />
 </div>
