@@ -83,12 +83,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MananHere576/MananHere576/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/MananHere576/count.svg?"  />
 </div>
