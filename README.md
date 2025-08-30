@@ -114,7 +114,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MananHere576/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MananHere576.MananHere576&"  />
 </div>
 
 ###
