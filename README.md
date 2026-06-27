@@ -1,4 +1,6 @@
-<h2 align="center">Hi 👋! My name is Manan Mishra and I'm a Student 🧑‍🎓</h2>
+<p align="center">
+  <img src="banner.png" alt="Manan Mishra Banner" width="100%">
+</p>
 
 ###
 
