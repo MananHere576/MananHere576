@@ -4,6 +4,10 @@
 
 ###
 
+<h2 align="center">My Stats:</h2>
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MananHere576&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   
