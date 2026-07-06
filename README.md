@@ -106,3 +106,23 @@
 
 ###
 
+<h2 align="center">🫧 Puzzle Bobble Contribution Graph</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/MananHere576/MananHere576/output/puzzle-bobble-contribution-graph-dark.svg"
+    alt="Puzzle Bobble Contribution Graph"
+    width="100%">
+</p>
+
+###
+
+<h3 align="center">
+
+⭐ Thanks for visiting!
+
+</h3>
+
+<p align="center">
+If you like my work, consider giving a ⭐ to my repositories.
+</p>
